@@ -1,4 +1,3 @@
-# Robot-Simulator
 Description:
 . The application is a simulation of a robot moving on a square tabletop, of dimensions 10 units x 10 units.
 
