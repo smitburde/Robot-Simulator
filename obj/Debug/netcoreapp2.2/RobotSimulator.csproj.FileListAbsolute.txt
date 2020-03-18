@@ -1,0 +1,10 @@
+C:\Users\sburde\Desktop\Robot-master\obj\Debug\netcoreapp2.2\RobotSimulator.csproj.CoreCompileInputs.cache
+C:\Users\sburde\Desktop\Robot-master\obj\Debug\netcoreapp2.2\RobotSimulator.AssemblyInfoInputs.cache
+C:\Users\sburde\Desktop\Robot-master\obj\Debug\netcoreapp2.2\RobotSimulator.AssemblyInfo.cs
+C:\Users\sburde\Desktop\Robot-master\bin\Debug\netcoreapp2.2\RobotSimulator.deps.json
+C:\Users\sburde\Desktop\Robot-master\bin\Debug\netcoreapp2.2\RobotSimulator.runtimeconfig.json
+C:\Users\sburde\Desktop\Robot-master\bin\Debug\netcoreapp2.2\RobotSimulator.runtimeconfig.dev.json
+C:\Users\sburde\Desktop\Robot-master\bin\Debug\netcoreapp2.2\RobotSimulator.dll
+C:\Users\sburde\Desktop\Robot-master\bin\Debug\netcoreapp2.2\RobotSimulator.pdb
+C:\Users\sburde\Desktop\Robot-master\obj\Debug\netcoreapp2.2\RobotSimulator.dll
+C:\Users\sburde\Desktop\Robot-master\obj\Debug\netcoreapp2.2\RobotSimulator.pdb
